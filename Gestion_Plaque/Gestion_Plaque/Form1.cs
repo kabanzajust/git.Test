@@ -16,11 +16,14 @@ namespace Gestion_Plaque
         {
             InitializeComponent();
         }
-
         private void button1_Click(object sender, EventArgs e)
         {
-            
-            MessageBox.Show("Bonjour: "+textBox1.Text);
+            if (textBox1.Text!="")
+            {
+                MessageBox.Show("Saisissez un nom");
+            } 
+            else
+            MessageBox.Show("Bonjour "+textBox1.Text);
         }
     }
 }
