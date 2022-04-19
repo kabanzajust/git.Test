@@ -1,1 +1,9 @@
 C:\Github_Test\git.Test\Gestion_Plaque\Gestion_Plaque\bin\Debug\Gestion_Plaque.exe.config
+C:\Github_Test\git.Test\Gestion_Plaque\Gestion_Plaque\bin\Debug\Gestion_Plaque.exe
+C:\Github_Test\git.Test\Gestion_Plaque\Gestion_Plaque\bin\Debug\Gestion_Plaque.pdb
+C:\Github_Test\git.Test\Gestion_Plaque\Gestion_Plaque\obj\Debug\Gestion_Plaque.csprojResolveAssemblyReference.cache
+C:\Github_Test\git.Test\Gestion_Plaque\Gestion_Plaque\obj\Debug\Gestion_Plaque.Form1.resources
+C:\Github_Test\git.Test\Gestion_Plaque\Gestion_Plaque\obj\Debug\Gestion_Plaque.Properties.Resources.resources
+C:\Github_Test\git.Test\Gestion_Plaque\Gestion_Plaque\obj\Debug\Gestion_Plaque.csproj.GenerateResource.Cache
+C:\Github_Test\git.Test\Gestion_Plaque\Gestion_Plaque\obj\Debug\Gestion_Plaque.exe
+C:\Github_Test\git.Test\Gestion_Plaque\Gestion_Plaque\obj\Debug\Gestion_Plaque.pdb

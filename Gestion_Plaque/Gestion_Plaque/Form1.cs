@@ -16,5 +16,11 @@ namespace Gestion_Plaque
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            
+            MessageBox.Show("Bonjour: "+textBox1.Text);
+        }
     }
 }
